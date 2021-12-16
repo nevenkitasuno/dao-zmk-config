@@ -40,7 +40,7 @@
 //       |  =  |  1  |  2  |  3  |  4  |  5  |   |  6  |  7  |  8  |  9  |  0  |     |
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
-   &to DEF &trans &trans &trans &kp F  &kp P  &kp G          &kp J  &kp L  &kp U  &kp Y  &kp ;  &trans &trans
+   &to DEF &trans &trans &trans &kp F  &kp P  &kp G          &kp J  &kp L  &kp U  &kp Y  &kp SEMI  &trans &trans
            &trans &trans &kp R  &kp S  &kp T  &kp D          &trans &kp N  &kp E  &kp I  &kp O  &trans
            &trans &trans &trans &trans &trans &trans         &kp K  &trans &trans &trans &trans &trans
                                 &trans &trans &trans         &trans &trans &trans
